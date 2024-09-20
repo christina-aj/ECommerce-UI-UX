@@ -1,0 +1,114 @@
+{
+  "pages": [
+    { "id": 1, "name": "Products" },
+    { "id": 2, "name": "Pricing" },
+    { "id": 3, "name": "Blog" }
+  ],
+  "settings": [
+    { "id": 1, "name": "Profile" },
+    { "id": 2, "name": "History" }
+  ],
+  "products": [
+    { "id": 1, "name": "Indosat", "image": "/images/indosat.png" },
+    { "id": 2, "name": "XL", "image": "/images/xl.png" },
+    { "id": 3, "name": "Three", "image": "/images/three.png" },
+    { "id": 4, "name": "Telkomsel", "image": "/images/telkomsel.png" },
+    { "id": 5, "name": "By.u", "image": "/images/byu.png" },
+    { "id": 6, "name": "Axis", "image": "/images/axis.png" },
+    { "id": 7, "name": "Smartfren", "image": "/images/smartfren.png" }
+  ],
+  "dataPackages": [
+    { "id": 1, "providerId": 1, "name": "100MB", "durasi": "1 Bulan", "price": 5000 },
+    { "id": 2, "providerId": 2, "name": "100MB", "durasi": "1 Bulan", "price": 5000 },
+    { "id": 3, "providerId": 3, "name": "100MB", "durasi": "1 Bulan", "price": 5000 },
+    { "id": 4, "providerId": 4, "name": "100MB", "durasi": "1 Bulan", "price": 5000 },
+    { "id": 5, "providerId": 5, "name": "100MB", "durasi": "1 Bulan", "price": 5000 },
+    { "id": 6, "providerId": 6, "name": "100MB", "durasi": "1 Bulan", "price": 5000 },
+    { "id": 7, "providerId": 7, "name": "100MB", "durasi": "1 Bulan", "price": 5000 },
+
+    { "id": 8, "providerId": 1, "name": "500MB", "durasi": "7 Hari", "price": 10000 },
+    { "id": 9, "providerId": 2, "name": "500MB", "durasi": "7 Hari", "price": 10000 },
+    { "id": 10, "providerId": 3, "name": "500MB", "durasi": "7 Hari", "price": 10000 },
+    { "id": 11, "providerId": 4, "name": "500MB", "durasi": "7 Hari", "price": 10000 },
+    { "id": 12, "providerId": 5, "name": "500MB", "durasi": "7 Hari", "price": 10000 },
+    { "id": 13, "providerId": 6, "name": "500MB", "durasi": "7 Hari", "price": 10000 },
+    { "id": 14, "providerId": 7, "name": "500MB", "durasi": "7 Hari", "price": 10000 },
+
+    { "id": 15, "providerId": 1, "name": "1GB", "durasi": "1 Bulan", "price": 15000 },
+    { "id": 16, "providerId": 2, "name": "1GB", "durasi": "1 Bulan", "price": 15000 },
+    { "id": 17, "providerId": 3, "name": "1GB", "durasi": "1 Bulan", "price": 15000 },
+    { "id": 18, "providerId": 4, "name": "1GB", "durasi": "1 Bulan", "price": 15000 },
+    { "id": 19, "providerId": 5, "name": "1GB", "durasi": "1 Bulan", "price": 15000 },
+    { "id": 20, "providerId": 6, "name": "1GB", "durasi": "1 Bulan", "price": 15000 },
+    { "id": 21, "providerId": 7, "name": "1GB", "durasi": "1 Bulan", "price": 15000 },
+
+    { "id": 22, "providerId": 1, "name": "3GB", "durasi": "7 Hari", "price": 20000 },
+    { "id": 23, "providerId": 2, "name": "3GB", "durasi": "7 Hari", "price": 20000 },
+    { "id": 24, "providerId": 3, "name": "3GB", "durasi": "7 Hari", "price": 20000 },
+    { "id": 25, "providerId": 4, "name": "3GB", "durasi": "7 Hari", "price": 20000 },
+    { "id": 26, "providerId": 5, "name": "3GB", "durasi": "7 Hari", "price": 20000 },
+    { "id": 27, "providerId": 6, "name": "3GB", "durasi": "7 Hari", "price": 20000 },
+    { "id": 28, "providerId": 7, "name": "3GB", "durasi": "7 Hari", "price": 20000 },
+
+    { "id": 29, "providerId": 1, "name": "7GB", "durasi": "1 Bulan", "price": 25000 },
+    { "id": 30, "providerId": 2, "name": "7GB", "durasi": "1 Bulan", "price": 25000 },
+    { "id": 31, "providerId": 3, "name": "7GB", "durasi": "1 Bulan", "price": 25000 },
+    { "id": 32, "providerId": 4, "name": "7GB", "durasi": "1 Bulan", "price": 25000 },
+    { "id": 33, "providerId": 5, "name": "7GB", "durasi": "1 Bulan", "price": 25000 },
+    { "id": 34, "providerId": 6, "name": "7GB", "durasi": "1 Bulan", "price": 25000 },
+    { "id": 35, "providerId": 7, "name": "7GB", "durasi": "1 Bulan", "price": 25000 },
+
+    { "id": 36, "providerId": 1, "name": "8GB", "durasi": "7 Hari", "price": 30000 },
+    { "id": 37, "providerId": 2, "name": "8GB", "durasi": "7 Hari", "price": 30000 },
+    { "id": 38, "providerId": 3, "name": "8GB", "durasi": "7 Hari", "price": 30000 },
+    { "id": 39, "providerId": 4, "name": "8GB", "durasi": "7 Hari", "price": 30000 },
+    { "id": 40, "providerId": 5, "name": "8GB", "durasi": "7 Hari", "price": 30000 },
+    { "id": 41, "providerId": 6, "name": "8GB", "durasi": "7 Hari", "price": 30000 },
+    { "id": 42, "providerId": 7, "name": "8GB", "durasi": "7 Hari", "price": 30000 },
+
+    { "id": 43, "providerId": 1, "name": "12GB", "durasi": "1 Bulan", "price": 35000 },
+    { "id": 44, "providerId": 2, "name": "12GB", "durasi": "1 Bulan", "price": 35000 },
+    { "id": 45, "providerId": 3, "name": "12GB", "durasi": "1 Bulan", "price": 35000 },
+    { "id": 46, "providerId": 4, "name": "12GB", "durasi": "1 Bulan", "price": 35000 },
+    { "id": 47, "providerId": 5, "name": "12GB", "durasi": "1 Bulan", "price": 35000 },
+    { "id": 48, "providerId": 6, "name": "12GB", "durasi": "1 Bulan", "price": 35000 },
+    { "id": 49, "providerId": 7, "name": "12GB", "durasi": "1 Bulan", "price": 35000 },
+
+    { "id": 50, "providerId": 1, "name": "18GB", "durasi": "7 Hari", "price": 40000 },
+    { "id": 51, "providerId": 2, "name": "18GB", "durasi": "7 Hari", "price": 40000 },
+    { "id": 52, "providerId": 3, "name": "18GB", "durasi": "7 Hari", "price": 40000 },
+    { "id": 53, "providerId": 4, "name": "18GB", "durasi": "7 Hari", "price": 40000 },
+    { "id": 54, "providerId": 5, "name": "18GB", "durasi": "7 Hari", "price": 40000 },
+    { "id": 55, "providerId": 6, "name": "18GB", "durasi": "7 Hari", "price": 40000 },
+    { "id": 56, "providerId": 7, "name": "18GB", "durasi": "7 Hari", "price": 40000 }
+  ],
+
+  "paymentMethods": [
+    { "id": 1, "name": "QRIS", "image": "/images/QRIS.png" },
+    { "id": 2, "name": "SPAY", "image": "/images/SPAY.png" },
+    { "id": 3, "name": "GOPAY", "image": "/images/GOPAY.png" },
+    { "id": 4, "name": "OVO", "image": "/images/OVO.png" },
+    { "id": 5, "name": "DANA", "image": "/images/DANA.png" }
+  ],
+
+  "transactionHistory": [
+    { "id": 1, "date": "20-09-2024", "description": "Paket Data 5GB", "amount": 50000, "provider": "Telkomsel" , "pembayaran": "DANA"},
+    { "id": 2, "date": "19-09-2024", "description": "Paket Data 10GB", "amount": 100000, "provider": "Indosat", "pembayaran": "SPAY"},
+    { "id": 3, "date": "18-09-2024", "description": "Paket Data 15GB", "amount": 150000, "provider": "XL","pembayaran": "QRIS" },
+    { "id": 4, "date": "17-09-2024", "description": "Paket Data 300MB", "amount": 15000, "provider": "AXIS", "pembayaran": "GOPAY" },
+    { "id": 5, "date": "16-09-2024", "description": "Paket Data 500MB", "amount": 30000, "provider": "XL", "pembayaran": "DANA" },
+    { "id": 6, "date": "15-09-2024", "description": "Paket Data 1GB", "amount": 90000, "provider": "Byu", "pembayaran": "OVO" },
+    { "id": 7, "date": "14-09-2024", "description": "Paket Data 50MB", "amount": 10000, "provider": "Smartfren", "pembayaran": "QRIS" },
+    { "id": 8, "date": "13-09-2024", "description": "Paket Data 50GB", "amount": 15000, "provider": "XL", "pembayaran": "SPAY" },
+    { "id": 9, "date": "12-09-2024", "description": "Paket Data 20GB", "amount": 35000, "provider": "Telkomsel", "pembayaran": "DANA" }
+  ],
+
+  "profile": {
+    "id": 1,
+  "name": "Christina Azazya",
+    "email": "christina@gmail.com",
+    "address": "Surabaya",
+    "phone": "123-456-7890"
+  }
+
+}
