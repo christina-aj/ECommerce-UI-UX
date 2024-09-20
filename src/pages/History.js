@@ -20,7 +20,7 @@ function History() {
   };
 
   const handleLogout = () => {
-    // 
+    navigate('/login'); 
   };
 
   const handleSearchChange = (event) => {

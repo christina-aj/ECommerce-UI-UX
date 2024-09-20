@@ -25,7 +25,7 @@ function Home() {
   };
 
   const handleLogout = () => {
-    //
+    navigate('/login'); 
   };
 
   React.useEffect(() => {

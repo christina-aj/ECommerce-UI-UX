@@ -27,7 +27,7 @@ function Form() {
   };
 
   const handleLogout = () => {
-    // 
+    navigate('/login'); 
   };
 
   const handleSearchChange = (event) => {

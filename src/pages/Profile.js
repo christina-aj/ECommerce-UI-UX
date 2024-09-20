@@ -22,7 +22,7 @@ function Profile() {
   };
 
   const handleLogout = () => {
-    // 
+    navigate('/login'); 
   };
 
   const handleSearchChange = (event) => {
