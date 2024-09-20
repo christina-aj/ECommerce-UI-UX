@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Box, Typography, Snackbar, Modal, IconButton, Card, CardContent, Grid, Button } from '@mui/material';
 import { Info as InfoIcon } from '@mui/icons-material';
 import AppBarComponent from '../components/AppBarComponent';
+import { useNavigate } from 'react-router-dom'; 
 
 
 function History() {
@@ -14,6 +15,8 @@ function History() {
   const [openModal, setOpenModal] = useState(false);
   const [transactionHistory, setTransactionHistory] = useState([]);
   const [selectedTransaction, setSelectedTransaction] = useState(null);
+
+  const navigate = useNavigate(); 
 
   const handleToggleSidebar = () => {
     setSidebarOpen(!sidebarOpen);

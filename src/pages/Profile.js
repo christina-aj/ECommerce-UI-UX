@@ -1,12 +1,15 @@
 import { Box, Card, CardContent, Typography, Avatar, TextField, Button } from '@mui/material';
 import { useState, useEffect } from 'react';
 import AppBarComponent from '../components/AppBarComponent';
+import { useNavigate } from 'react-router-dom'; 
 
 function Profile() {
   const [pages, setPages] = useState([]);
   const [settings, setSettings] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
   const [sidebarOpen, setSidebarOpen] = useState(false);
+
+  const navigate = useNavigate(); 
 
   const [profileData, setProfileData] = useState({
     name: '',
